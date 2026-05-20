@@ -101,3 +101,4 @@ D:\ToDoNtier\Web\obj\Debug\net10.0\refint\Web.dll
 D:\ToDoNtier\Web\obj\Debug\net10.0\Web.pdb
 D:\ToDoNtier\Web\obj\Debug\net10.0\Web.genruntimeconfig.cache
 D:\ToDoNtier\Web\obj\Debug\net10.0\ref\Web.dll
+D:\ToDoNtier\Web\obj\Debug\net10.0\Web.sourcelink.json

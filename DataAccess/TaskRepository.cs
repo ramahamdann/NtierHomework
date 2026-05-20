@@ -32,6 +32,11 @@ namespace ToDoNtier.DataAccess
             // TODO: ابحث عن المهمة باستخدام id 
  
             // TODO:  إذا كانت المهمة موجودة، قم بإزالتها من القائمة 
+            var task = GetById(id);
+            if (task != null)
+            {
+                tasks.Remove(task);
+            }
         } 
     } 
 } 
